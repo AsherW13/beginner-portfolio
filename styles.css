@@ -187,6 +187,11 @@ section {
     height: 80vh;
 }
 
+.profile-pic {
+    border-radius: 50%;
+    border: var(--secondary-color) 0.1rem solid;
+}
+
 .section__pic-container {
     display: flex;
     height: 400px;
