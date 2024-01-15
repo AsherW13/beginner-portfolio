@@ -9,7 +9,7 @@
 :root {
     --primary-color: white;
     --secondary-color: black;
-    --p-color: rgb(95,95,95);
+    --p-color: rgb(79, 79, 79);
 }
 
 .theme-toggle {
@@ -25,7 +25,7 @@
 .dark-theme {
     --primary-color: black;
     --secondary-color: white;
-    --p-color: rgb(170, 170, 170);
+    --p-color: rgb(227, 227, 227);
 }
 
 #desktop-nav {
